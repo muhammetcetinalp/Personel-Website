@@ -12,10 +12,8 @@ This is the source code for my personal website.
 
 ## Features
 
-*Introduction section with a brief overview of myself.
-
 *Skills section highlighting my programming.
 
-*Get In Touch section for contacting me.
+*About me and contact section highligting about me.
 
-*Social media links in the website.
+*Social media links.
