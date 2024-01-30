@@ -14,6 +14,6 @@ This is the source code for my personal website.
 
 *Skills section highlighting my programming.
 
-*About me and contact section highligting about me.
+*About me and contact section highlighting about me.
 
 *Social media links.
